@@ -2,6 +2,8 @@
 layout: post
 title: My website
 subtitle: or how to get yours
+tags: [tutorial, website, github, jekyll]
+permalink: /my-website/
 ---
 
 Here we are, willing for an online visibility. How to set that up quickly when you start from scratch ? Remember those html courses ?
