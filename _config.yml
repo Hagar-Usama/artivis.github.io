@@ -41,6 +41,10 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
+# Todo figure out auto google cse
+# Enable/disable search on artivis.github.io
+nav-search: true
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -101,7 +105,7 @@ timezone: "Europe/Spain"
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM
