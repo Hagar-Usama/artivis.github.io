@@ -18,6 +18,8 @@ You've notice right ? That the last occurrence of the word [github](https://en.w
 
 But first lets set up all the necessary stuff to get started, shall we ?
 
+If you are a complete beginner you may want to check [github's page tutorial](https://guides.github.com/features/pages/) which is really simple while walking you through setting up your website.
+
 **Github**
 
 1.  First of all, let's [register on github](https://github.com/join) if you don't have an account yet.
