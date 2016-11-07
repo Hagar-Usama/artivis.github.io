@@ -8,8 +8,8 @@ We will find in a near future more and more robots in our environment, including
 
 ### Youtube video
 
-<a href="https://www.youtube.com/watch?v=_zMrtydacsQ"><img src="http://img.youtube.com/vi/_zMrtydacsQ/0.jpg" width="400"></a>
-<a href="https://www.youtube.com/watch?v=Tlo4l3gCdhA"><img src="http://img.youtube.com/vi/Tlo4l3gCdhA/0.jpg" width="400"></a>
+<a href="https://www.youtube.com/watch?v=_zMrtydacsQ" target="_blank"><img src="http://img.youtube.com/vi/_zMrtydacsQ/0.jpg" width="350"></a>
+<a href="https://www.youtube.com/watch?v=Tlo4l3gCdhA" target="_blank"><img src="http://img.youtube.com/vi/Tlo4l3gCdhA/0.jpg" width="350"></a>
 
 <!-- [![pmbb2 omni cam](http://img.youtube.com/vi/_zMrtydacsQ/0.jpg)](https://www.youtube.com/watch?v=_zMrtydacsQ)
 
