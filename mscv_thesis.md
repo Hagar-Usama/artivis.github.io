@@ -17,8 +17,16 @@ We will find in a near future more and more robots in our environment, including
 
 ### Few Images
 
-<img src="/img/mscv_thesis/1822578_orig.jpg" width="400">
+<a href="/img/mscv_thesis/1822578_orig.jpg" target="_blank"><img src="/img/mscv_thesis/1822578_orig.jpg" width="350"></a>
+
+<a href="/img/mscv_thesis/315067_orig.jpg" target="_blank"><img src="/img/mscv_thesis/315067_orig.jpg" width="350"></a>
+<a href="/img/mscv_thesis/4735148_orig.jpg" target="_blank"><img src="/img/mscv_thesis/4735148_orig.jpg" width="350"></a>
+
+<a href="/img/mscv_thesis/1424596_orig.jpg" target="_blank"><img src="/img/mscv_thesis/1424596_orig.jpg" width="350"></a>
+<a href="/img/mscv_thesis/2339208_orig.jpg" target="_blank"><img src="/img/mscv_thesis/2339208_orig.jpg" width="350"></a>
+
+<!-- <img src="/img/mscv_thesis/1822578_orig.jpg" width="400">
 <img src="/img/mscv_thesis/315067_orig.jpg" width="400">
 <img src="/img/mscv_thesis/4735148_orig.jpg" width="350">
 <img src="/img/mscv_thesis/1424596_orig.jpg" width="300">
-<img src="/img/mscv_thesis/2339208_orig.jpg" width="300">
+<img src="/img/mscv_thesis/2339208_orig.jpg" width="300"> -->
