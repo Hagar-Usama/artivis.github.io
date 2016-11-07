@@ -27,7 +27,7 @@ description: You can't stop progress... I guess
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    # - project list: "projects"
+    - MScV Thesis: "mscv_thesis"
     - catkin-build-tools: "catkin-build-tools"
   About/Contact: "aboutme"
   # Resources:
